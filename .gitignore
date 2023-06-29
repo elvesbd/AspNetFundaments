@@ -1,5 +1,6 @@
 bin/
 obj/
+packages/
 
 *.user
 *.suo
@@ -8,6 +9,5 @@ obj/
 *.vs/
 
 
-packages/
 *.nupkg
 *.paket.*
