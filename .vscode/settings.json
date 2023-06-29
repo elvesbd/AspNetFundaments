@@ -1,3 +1,4 @@
 {
-  "dotnet.defaultSolution": "Todo.sln"
+  "dotnet.defaultSolution": "Todo.sln",
+  "cSpell.words": ["Sqlite"]
 }

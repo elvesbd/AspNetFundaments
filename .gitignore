@@ -1,0 +1,13 @@
+bin/
+obj/
+
+*.user
+*.suo
+*.cache
+*.bak
+*.vs/
+
+
+packages/
+*.nupkg
+*.paket.*
